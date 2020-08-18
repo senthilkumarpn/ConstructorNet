@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SalutationRules ruleTableName="salutationRules" templateName="defineSalutation">
+    <Rule gender="Female" maritalStatus="Married" salutation="Mrs." />
+    <Rule gender="Female" maritalStatus="Single" salutation="Ms." />
+    <Rule gender="Male" maritalStatus="" salutation="Mr." />
+    <Rule gender="Male" maritalStatus="Single" maxAge="5" salutation="Little" />
+</SalutationRules>

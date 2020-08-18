@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GreetingRules ruleTableName="greetingRules" templateName="defineGreeting" type="Array of Rule(s)">
+  <Rule from="0" to="11" greeting="Good Morning" />
+  <Rule from="12" to="16" greeting="Good Afternoon" />
+  <Rule from="17" to="21" greeting="Good Evening" />
+  <Rule from="22" to="24" greeting="Good Night" />
+</GreetingRules>
